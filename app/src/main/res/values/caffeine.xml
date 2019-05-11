@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="caffeine_names">
+        <item>Coffee</item>
+        <item>Espresso</item>
+        <item>Green Tea</item>
+        <item>Coca Cola</item>
+        <item>Diet Coke</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="caffeine_name_codes">
+        <item>COFFEE</item>
+        <item>ESPRESSO</item>
+        <item>GREEN_TEA</item>
+        <item>COCA_COLA</item>
+        <item>DIET_COKE</item>
+        <item>CUSTOM</item>
+    </string-array>
+
+    <string-array name="amount_names">
+        <item>4 fl oz (~125mL)</item>
+        <item>8 fl oz (~237mL)</item>
+        <item>12 fl oz (~355mL)</item>
+        <item>16 fl oz (~473mL)</item>
+    </string-array>
+
+    <string-array name="amount_codes">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="esspresso_size_names">
+        <item>Single Shot</item>
+        <item>Double Shot</item>
+    </string-array>
+
+    <string-array name="esspresso_size_codes">
+        <item>SINGLE</item>
+        <item>DOUBLE</item>
+    </string-array>
+
+    <string-array name="can_size_names">
+        <item>12 fl oz (US Can)</item>
+        <item>16 fl oz (US Small Cup)</item>
+        <item>21 fl oz (US Medium Cup)</item>
+        <item>30 fl oz (US Large Cup)</item>
+    </string-array>
+
+    <string-array name="can_size_codes">
+        <item>12</item>
+        <item>16</item>
+        <item>21</item>
+        <item>30</item>
+    </string-array>
+
+
+</resources>
